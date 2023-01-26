@@ -1,5 +1,6 @@
-package com.cydeo.lamda;
+package com.cydeo.lamda.apple_task;
 
+import com.cydeo.lamda.Color;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;

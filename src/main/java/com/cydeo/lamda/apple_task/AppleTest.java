@@ -1,4 +1,6 @@
-package com.cydeo.lamda;
+package com.cydeo.lamda.apple_task;
+
+import com.cydeo.lamda.Color;
 
 import java.util.ArrayList;
 import java.util.List;
